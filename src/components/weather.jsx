@@ -24,7 +24,7 @@ const useStyles = makeStyles({
     rightContainer : {
     background : 'linear-gradient( 35deg,#CCFFFF,#FFCCCC)',
     height:'80%',
-    width: '70%'
+    width: 'auto'
     },
 })
 
